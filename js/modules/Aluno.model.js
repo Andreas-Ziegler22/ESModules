@@ -1,4 +1,4 @@
-export { avarege } from "../calc.js";
+export { avarege } from "./../calc";
 
 export class AlunoModel {
   // constructor(aluno) {

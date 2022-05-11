@@ -1,8 +1,7 @@
-import { alunosService } from "./js/Service/Alunos.service.js";
-import { EditAlunoView } from "./js/Views/Alunos.view.js";
-import { EditAlunoController } from "./js/Controllers/EditAluno.controller";
+import { AlunosService } from "./js/Service/Alunos.service.js";
+import { EditAlunoView } from "./js/Views/EditAluno.view.js";
+import { EditAlunoController } from "./js/Controllers/EditAluno.controller.js";
 import { MateriasService } from "./js/Service/materias.service.js";
-import {} from "";
 
 const alunosService = new AlunosService();
 
